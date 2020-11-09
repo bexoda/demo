@@ -1,14 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    'reg' : 'GA-5567-20',
+    'chasis' : 'SV30-0169266',
+    'color' : 'RED',
+    'make' : 'BMW',
+    'registration_year': '2020',
+    'vehicle_class': 'Sedan',
+    'model': 'M5',
+    'cubic_capacity' : '3.0',
+    'no_of_seats': '4',
+    'date_of_registration': '2020-09-11',
+    'year_of_manufacture': '2015'
 }
