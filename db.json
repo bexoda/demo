@@ -1,5 +1,5 @@
 {
-    "cars": [
+    "cars": 
         {
     "reg" : "GA-5567-20",
     "chasis" : "SV30-0169266",
@@ -13,7 +13,7 @@
     "date_of_registration": "2020-09-11",
     "year_of_manufacture": "2015"
         }
-    ],
+    ,
     "profile": {
         "name": "typicode"
     }
