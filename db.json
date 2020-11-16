@@ -16,10 +16,12 @@
         "id": 2,
         "first_name": "Xever",
         "last_name": "Castilla",
+        "mid_name": "Kofi",
         "email": "xcastilla1@google.de",
         "gender": "Male",
         "idnumber": "318-99-4837",
-        "date_of_birth": "15/08/1976"
+        "date_of_birth": "15/08/1976",
+        "Marital Status": "Single"
     },
     "vehicleDetails": {
         "Color": "White",
@@ -30,7 +32,7 @@
         "Engine Cylinders": "2",
         "Number of Doors": "4",
         "Fuel Type - Primary": "Petrol",
-        "Year of Manufacture": "2020",
+        "year of Manufacture": "2020",
         "Transmission": "Automatic",
         "Seating Capacity": "5",
         "VIN": "5YJSA1DG9DFP14705",
