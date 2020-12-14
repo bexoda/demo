@@ -10,7 +10,8 @@
         "cubic_capacity": "3.0",
         "no_of_seats": "4",
         "date_of_registration": "2020-09-11",
-        "year_of_manufacture": "2015"
+        "year_of_manufacture": "2015",
+        "img_url": "https://www.acko.com/media/vehicles/Maruti/Maruti-Swift/pearl-arctic-white.png"
     },
     "user": {
         "id": 2,
