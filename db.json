@@ -42,5 +42,61 @@
         "Engine Torque": "350nM",
         "Fuel Capacity": "1.8",
         "img_URL": "https://images.dealer.com/ddc/vehicles/2020/Honda/Civic%20Si/Coupe/color/Lunar%20Silver%20Metallic-SI-160,160,160-640-en_US.jpg"
+    },
+    "preiumcalc":[
+    {
+        "Cover_Type": "Comprehensive",
+        "Risk_type": "Private personal",
+        "Value_of_Vehicle": "60000",
+        "Comprehensive_Basic_Prem": "3000.0000",
+        "NCD": "3000.0000",
+        "Fleet_Discount": "3320.0000",
+        "Excess_buy_back": "300.00000000",
+        "Extra_seat_load": "0",
+        "tppdl": "10.00",
+        "Ecowas_Peril": "5.0000",
+        "Additional_perils": "5.0000",
+        "P_A_Benefit": "24.00",
+        "Brown_Card_cert": "5.0000",
+        "GIA_Sticker": "5.0000",
+        "NIC_contribution": "15.0000",
+        "Total_Premium": "3689.00"
+    },
+    {
+        "Cover_Type": "Third Party Fire and Theft",
+        "Risk_type": "Private personal",
+        "Value_of_Vehicle": "60000",
+        "Comprehensive_Basic_Prem": "600.0000",
+        "NCD": "600.0000",
+        "Fleet_Discount": "872.0000",
+        "Excess_buy_back": "60.00000000",
+        "Extra_seat_load": "0",
+        "tppdl": "10.00",
+        "Ecowas_Peril": "5.0000",
+        "Additional_perils": "5.0000",
+        "P_A_Benefit": "24.00",
+        "Brown_Card_cert": "5.0000",
+        "GIA_Sticker": "5.0000",
+        "NIC_contribution": "15.0000",
+        "Total_Premium": "1001.00"
+    },
+    {
+        "Cover_Type": "Third Party",
+        "Risk_type": "Private personal",
+        "Value_of_Vehicle": "60000",
+        "Comprehensive_Basic_Prem": "0.0000",
+        "NCD": "0.0000",
+        "Fleet_Discount": "272.0000",
+        "Excess_buy_back": "0E-8",
+        "Extra_seat_load": "0",
+        "tppdl": "10.00",
+        "Ecowas_Peril": "5.0000",
+        "Additional_perils": "5.0000",
+        "P_A_Benefit": "24.00",
+        "Brown_Card_cert": "5.0000",
+        "GIA_Sticker": "5.0000",
+        "NIC_contribution": "15.0000",
+        "Total_Premium": "341.00"
     }
+]
 }
